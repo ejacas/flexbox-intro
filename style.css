@@ -5,7 +5,7 @@
 }
 
 body {
-    background: crimson;
+    background: skyblue;
     padding: 20px;
     font-family: verdana;
 }
@@ -17,7 +17,7 @@ h1 {
 
 .container {
     display: flex;
-    
+
     /* flex-direction: row; */
     /* flex-wrap: wrap; */
 
